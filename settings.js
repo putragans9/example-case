@@ -10,7 +10,7 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
+global.namabot = "Dwyne Bot"
 global.namaowner = "— Traa | 結."
 global.packname = namabot
 global.author = namaowner
@@ -18,7 +18,7 @@ global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['625712201861']
+global.owner = ['6285712201861']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/Dwyne-bot-10-23" //maks size 50kb agar welcome nya gk lemot
